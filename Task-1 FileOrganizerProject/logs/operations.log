@@ -1,0 +1,11 @@
+2026-05-30 00:00:00,000 - INFO - Sample log file
+2026-05-30 14:23:01,982 - INFO - Program started
+2026-05-30 14:35:14,717 - ERROR - Unhandled error: The given folder does not exist.
+Traceback (most recent call last):
+  File "C:\Users\bshas\Downloads\python_file_automation_project\python_file_automation_project\main.py", line 146, in main
+    raise FileNotFoundError("The given folder does not exist.")
+FileNotFoundError: The given folder does not exist.
+2026-05-30 14:35:14,739 - INFO - Program ended
+2026-05-30 14:35:22,398 - INFO - Program started
+2026-05-30 14:37:00,231 - INFO - Listed 1 file(s) in C:\Users\bshas\OneDrive\Desktop\student_result_website
+2026-05-30 22:55:03,263 - INFO - Program ended

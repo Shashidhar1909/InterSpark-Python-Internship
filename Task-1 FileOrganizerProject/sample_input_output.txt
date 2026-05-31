@@ -1,0 +1,25 @@
+SAMPLE INPUT / OUTPUT
+
+Input:
+Enter folder path: C:\Users\YourName\Desktop\sample_files
+Enter your choice (1-5): 1
+Enter prefix for new file names: new_
+
+Output:
+Renamed: report.pdf -> new_report.pdf
+Renamed: notes.txt -> new_notes.txt
+Renamed: photo.jpg -> new_photo.jpg
+
+Input:
+Enter your choice (1-5): 2
+
+Output:
+Moved: new_report.pdf -> PDF/
+Moved: new_notes.txt -> TXT/
+Moved: new_photo.jpg -> JPG/
+
+Input:
+Enter your choice (1-5): 3
+
+Output:
+Clean-up complete. Removed 1 empty file(s).
