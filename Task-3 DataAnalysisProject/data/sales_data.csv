@@ -1,0 +1,36 @@
+OrderID,OrderDate,Region,Category,Product,Quantity,UnitPrice,Discount
+1001,2026-01-03,South,Electronics,Wireless Mouse,4,12.5,0.05
+1002,2026-01-04,North,Books,Python Basics,3,18.0,0.0
+1003,2026-01-04,East,Clothing,T-Shirt,5,10.0,0.1
+1004,2026-01-05,West,Home,Coffee Mug,6,7.5,0.0
+1005,2026-01-06,South,Electronics,Keyboard,2,25.0,0.15
+1006,2026-01-07,North,Books,Data Science Guide,2,22.0,0.0
+1007,2026-01-08,East,Home,Desk Lamp,3,30.0,0.05
+1008,2026-01-09,West,Clothing,Jeans,2,28.0,0.1
+1009,2026-01-10,South,Electronics,USB Cable,8,5.0,0.0
+1010,2026-01-11,North,Home,Notebook,10,3.0,0.0
+1011,2026-01-12,East,Books,AI for Beginners,1,24.0,0.0
+1012,2026-01-13,West,Electronics,Webcam,2,35.0,0.05
+1013,2026-01-14,South,Clothing,Cap,4,9.0,0.0
+1014,2026-01-15,North,Home,Water Bottle,7,6.5,0.1
+1015,2026-01-16,East,Electronics,Headphones,3,45.0,0.15
+1016,2026-01-17,West,Books,Machine Learning,2,30.0,0.0
+1017,2026-01-18,South,Home,Wall Clock,2,20.0,0.0
+1018,2026-01-19,North,Clothing,Jacket,1,55.0,0.2
+1019,2026-01-20,East,Electronics,Power Bank,5,15.0,0.0
+1020,2026-01-21,West,Home,Pillow,4,14.0,0.05
+1021,2026-01-22,South,Books,Statistics Made Easy,2,26.0,0.1
+1022,2026-01-23,North,Electronics,Smart Watch,1,80.0,0.05
+1023,2026-01-24,East,Clothing,Socks,10,4.0,0.0
+1024,2026-01-25,West,Books,SQL Essentials,3,20.0,0.0
+1025,2026-01-26,South,Home,Table Mat,6,8.0,0.0
+1026,2026-01-27,North,Electronics,Monitor,1,120.0,0.1
+1027,2026-01-28,East,Home,Curtains,2,25.0,0.0
+1028,2026-01-29,West,Clothing,Sneakers,2,40.0,0.15
+1029,2026-01-30,South,Books,Deep Learning,1,35.0,0.0
+1030,2026-01-31,North,Home,Mixer Grinder,1,65.0,0.08
+1031,2026-02-01,East,Electronics,Bluetooth Speaker,2,38.0,0.05
+1032,2026-02-02,West,Books,Database Systems,2,28.0,0.0
+1033,2026-02-03,South,Clothing,Shirt,3,22.0,0.1
+1034,2026-02-04,North,Home,Cookware Set,1,90.0,0.12
+1035,2026-02-05,East,Electronics,Laptop Stand,4,18.0,0.0

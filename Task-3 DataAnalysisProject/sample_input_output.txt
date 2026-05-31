@@ -1,0 +1,36 @@
+Sample Input / Output
+
+Input:
+Use sample dataset at data/sales_data.csv? (y/n): y
+Enter filter choice (1/2/3/4): 3
+Enter category (Electronics/Books/Clothing/Home): Electronics
+
+Output:
+Python Data Analysis Project
+==============================
+Loaded 35 rows from sales_data.csv
+Rows after cleaning: 35
+Rows after filter: 10
+
+Python Data Analysis Project
+================================
+Rows after cleaning : 10
+Unique orders       : 10
+Total quantity sold : 32
+Total revenue       : $1,135.75
+Average order value : $113.58
+
+Revenue by region:
+  - North: $980.00
+  - East: $751.50
+  - South: $517.50
+  - West: $352.75
+
+Top 5 products by revenue:
+  - Monitor: $108.00
+  - Smart Watch: $76.00
+  - Headphones: $114.75
+  - Webcam: $66.50
+  - Keyboard: $42.50
+
+Task completed successfully.

@@ -1,0 +1,7 @@
+2026-05-31 00:00:00 - INFO - Log file created for Python data analysis project.
+2026-05-31 12:24:39,858 - INFO - Loading data from C:\Users\bshas\Downloads\python_data_analysis_project\python_data_analysis_project\data\sales_data.csv
+2026-05-31 12:24:39,894 - INFO - Cleaning data
+2026-05-31 12:24:39,920 - INFO - Rows after cleaning: 35
+2026-05-31 12:24:54,869 - INFO - Filtered by region: 1
+2026-05-31 12:24:54,877 - INFO - Saved analysis report to C:\Users\bshas\Downloads\python_data_analysis_project\python_data_analysis_project\outputs\analysis_report.txt
+2026-05-31 12:24:54,878 - INFO - Task completed successfully

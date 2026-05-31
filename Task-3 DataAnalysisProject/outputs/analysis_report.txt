@@ -1,0 +1,18 @@
+Python Data Analysis Project
+================================
+Rows after cleaning : 0
+Unique orders       : 0
+Total quantity sold : 0
+Total revenue       : $0.00
+Average order value : $0.00
+
+Revenue by region:
+
+Revenue by category:
+
+Top 5 products by revenue:
+
+Insights:
+  - Cleaned the dataset by removing duplicates and invalid rows.
+  - Calculated net sales after discount.
+  - Grouped data by region, category, and product for analysis.
