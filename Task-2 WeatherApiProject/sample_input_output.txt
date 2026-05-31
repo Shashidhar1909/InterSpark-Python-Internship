@@ -1,0 +1,26 @@
+Sample Input / Output
+
+Input:
+Enter a city name to search weather for: Hyderabad
+Select the correct location number: 1
+Enter filter choice (1/2/3): 2
+Enter minimum temperature in °C: 30
+
+Output:
+Python API Integration Project
+===================================
+Selected location: Hyderabad, Telangana, India
+
+Current weather
+--------------------------------------------------
+Time           : 2026-05-31T14:00
+Temperature    : 34.2 °C
+Wind Speed     : 12.1 km/h
+Condition      : Partly cloudy (code 2)
+
+7-Day Forecast
+--------------------------------------------------------------------------------
+2026-05-31 | High: 38.0 °C | Low: 28.0 °C | Rain %: 10 | Partly cloudy (code 2)
+2026-06-01 | High: 39.0 °C | Low: 29.0 °C | Rain %: 20 | Clear sky (code 0)
+
+Task completed successfully.

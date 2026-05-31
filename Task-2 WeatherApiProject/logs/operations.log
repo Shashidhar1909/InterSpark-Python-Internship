@@ -1,0 +1,10 @@
+2026-05-31 00:00:00 - INFO - Log file created for Python API Integration project.
+2026-05-31 12:04:51,470 - ERROR - Validation/API error
+Traceback (most recent call last):
+  File "C:\Users\bshas\Downloads\python_api_integration_project\python_api_integration_project\main.py", line 207, in main
+    raise ValueError("City name cannot be empty.")
+ValueError: City name cannot be empty.
+2026-05-31 12:05:08,262 - INFO - User searched city: nizamabad
+2026-05-31 12:05:08,322 - INFO - Requesting https://geocoding-api.open-meteo.com/v1/search with params={'name': 'nizamabad', 'count': 5, 'language': 'en', 'format': 'json'}
+2026-05-31 12:05:32,331 - INFO - Requesting https://api.open-meteo.com/v1/forecast with params={'latitude': 18.67154, 'longitude': 78.0988, 'current': 'temperature_2m,wind_speed_10m,weather_code', 'daily': 'temperature_2m_max,temperature_2m_min,precipitation_probability_max,weather_code', 'timezone': 'Asia/Kolkata', 'forecast_days': 7}
+2026-05-31 12:06:03,846 - INFO - Successfully completed search for nizamabad
